@@ -23,6 +23,7 @@ usr/share/kde4/apps/kdevappwizard/template_previews/akonadi-resources.png
 usr/share/kde4/apps/kdevappwizard/template_previews/akonadi-serializer.png
 usr/share/kde4/apps/kdevappwizard/template_previews/default.png
 usr/share/kde4/apps/kdevappwizard/template_previews/kapp4.png
+usr/share/kde4/apps/kdevappwizard/template_previews/kde-frameworks5-simple.png
 usr/share/kde4/apps/kdevappwizard/template_previews/kde-simple.png
 usr/share/kde4/apps/kdevappwizard/template_previews/kderubyapp.png
 usr/share/kde4/apps/kdevappwizard/template_previews/konqplugin.png
@@ -39,6 +40,7 @@ usr/share/kde4/apps/kdevappwizard/templates/akonadiserializer.tar.bz2
 usr/share/kde4/apps/kdevappwizard/templates/flake.tar.bz2
 usr/share/kde4/apps/kdevappwizard/templates/kapp4-qml.tar.bz2
 usr/share/kde4/apps/kdevappwizard/templates/kapp4.tar.bz2
+usr/share/kde4/apps/kdevappwizard/templates/kde-frameworks5-simple.tar.bz2
 usr/share/kde4/apps/kdevappwizard/templates/kde-simple.tar.bz2
 usr/share/kde4/apps/kdevappwizard/templates/kderubyapp.tar.bz2
 usr/share/kde4/apps/kdevappwizard/templates/kofficetext.tar.bz2
