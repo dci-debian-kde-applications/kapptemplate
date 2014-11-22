@@ -1,7 +1,7 @@
 Source: kapptemplate
 Section: kde
 Priority: optional
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Sune Vuorela <sune@debian.org>,
            Fathi Boudra <fabo@debian.org>,
            Modestas Vainius <modax@debian.org>,
@@ -9,20 +9,23 @@ Uploaders: Sune Vuorela <sune@debian.org>,
            Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
+               extra-cmake-modules,
                kde-sc-dev-latest (>= 4:4.12),
-               kdelibs5-dev (>= 4:4.11),
+               kdoctools-dev,
+               kio-dev,
+               libkf5archive-dev,
                pkg-kde-tools (>= 0.12)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 XS-Testsuite: autopkgtest
 Homepage: http://www.kde.org/
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/kapptemplate.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kapptemplate.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-applications/kapptemplate.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kapptemplate.git
 
 Package: kapptemplate
 Architecture: any
 Section: devel
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Suggests: kdelibs5-dev (>= 4:4.1.80)
+Suggests: kio-dev
 Description: application template generator
  KAppTemplate is a shell script that will create the necessary framework to
  develop several types of applications, including applications based on the
