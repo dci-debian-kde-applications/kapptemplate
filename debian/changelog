@@ -1,3 +1,16 @@
+kapptemplate (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream beta release
+  * Fix watch urls for new release location.
+  * Update Vcs urls for the new repository location.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+  * Update the maintainer
+  * Refresh build-dependencies for the kf5 port
+  * kapptemplate suggests kio-dev instead of kdelibs5-dev
+  * Refresh kapptemplate.install
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sat, 22 Nov 2014 17:48:28 +0100
+
 kapptemplate (4:4.50.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * KDE Frameworks 5 Port.
