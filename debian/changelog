@@ -1,6 +1,6 @@
-kapptemplate (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+kapptemplate (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
 
-  * New upstream beta release
+  * New upstream release candidate
   * Fix watch urls for new release location.
   * Update Vcs urls for the new repository location.
   * Bump Standards-Version to 3.9.6, no changes needed.
@@ -8,6 +8,7 @@ kapptemplate (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
   * Refresh build-dependencies for the kf5 port
   * kapptemplate suggests kio-dev instead of kdelibs5-dev
   * Refresh kapptemplate.install
+  * Switch to v3 dhmk for kf5
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sat, 22 Nov 2014 17:48:28 +0100
 
