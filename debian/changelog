@@ -1,4 +1,4 @@
-kapptemplate (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
+kapptemplate (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
   * New upstream release candidate
   * Fix watch urls for new release location.
@@ -9,8 +9,9 @@ kapptemplate (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
   * kapptemplate suggests kio-dev instead of kdelibs5-dev
   * Refresh kapptemplate.install
   * Switch to v3 dhmk for kf5
+  * PPA build
 
- -- Philip Muškovac <yofel@kubuntu.org>  Sat, 22 Nov 2014 17:48:28 +0100
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 28 Nov 2014 20:55:35 +0100
 
 kapptemplate (4:4.50.0-0ubuntu1) UNRELEASED; urgency=medium
 
