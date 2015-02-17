@@ -2,7 +2,7 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: kapptemplate
 Upstream-Contact: Anne-Marie Mahfouf <annma@kde.org>
                   Jeremy Paul Whiting <jpwhiting@kde.org>
-Source: http://www.kde.org/download/
+Source: git://anongit.kde.org/kapptemplate
 
 Files: *
 Copyright: 2007, Alexander Dymo <adymo@kdevelop.org>
