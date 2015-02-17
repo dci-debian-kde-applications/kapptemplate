@@ -1,6 +1,8 @@
 kapptemplate (4:14.12.2-1~) UNRELEASED; urgency=medium
 
   * Prepare Debian release.
+  * Update build dependencies to build against experimental and to
+    follow cmake.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 17 Feb 2015 10:45:02 +0100
 
