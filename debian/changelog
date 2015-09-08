@@ -1,3 +1,9 @@
+kapptemplate (4:15.08.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 13:34:03 +0200
+
 kapptemplate (4:15.08.0-0ubuntu1) wily; urgency=medium
 
   * new upstream release
@@ -10,14 +16,6 @@ kapptemplate (4:15.07.90-0ubuntu1) wily; urgency=medium
   * new upstream beta release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 09:33:29 +0100
-
-kapptemplate (4:15.04.3-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (15.04.0).
-  * New upstream release (15.04.1).
-  * New upstream release (15.04.3).
-
- -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Jul 2015 16:45:04 +0200
 
 kapptemplate (4:15.04.2-0ubuntu1) wily; urgency=medium
 
@@ -77,12 +75,6 @@ kapptemplate (4:14.11.97-0ubuntu1) vivid; urgency=medium
   * PPA build
 
  -- Philip Muškovac <yofel@kubuntu.org>  Fri, 28 Nov 2014 20:55:35 +0100
-
-kapptemplate (4:4.50.0-0ubuntu1) UNRELEASED; urgency=medium
-
-  * KDE Frameworks 5 Port.
-
- -- Harald Sitter <apachelogger@kubuntu.org>  Fri, 31 Oct 2014 11:59:11 +0100
 
 kapptemplate (4:4.14.1-1) unstable; urgency=medium
 
