@@ -1,8 +1,8 @@
-kapptemplate (4:15.08.3-1~) UNRELEASED; urgency=medium
+kapptemplate (4:15.08.3-1) unstable; urgency=medium
 
   * New upstream release (15.08.3).
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 09 Nov 2015 09:47:08 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:39:54 +0100
 
 kapptemplate (4:15.08.2-1) unstable; urgency=medium
 
