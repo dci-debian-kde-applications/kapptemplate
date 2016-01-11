@@ -1,6 +1,12 @@
 kapptemplate (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Clive Johnston ]
   * New upstream release
+
+  [ Philip Muškovac ]
+  * Expand the install file so qml-plasmoid can be excluded which is now
+    shipped in plasma-framework as well.
+  * Add qml-plasmoid to not-installed
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:37:05 +0000
 
