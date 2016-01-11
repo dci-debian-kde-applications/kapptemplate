@@ -2,22 +2,27 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: kapptemplate
 Upstream-Contact: Anne-Marie Mahfouf <annma@kde.org>
                   Jeremy Paul Whiting <jpwhiting@kde.org>
-Source: http://www.kde.org/download/
+Source: git://anongit.kde.org/kapptemplate
 
 Files: *
 Copyright: 2007, Alexander Dymo <adymo@kdevelop.org>
+           2008, Anne-Marie Mahfouf
            2008, Anne-Marie Mahfouf <annma@kde.org>
            2008, Beat Wolf <asraniel@fryx.ch>
            2001, Bernd Gehrmann <bernd@kdevelop.org>
-           2004,2005, Sascha Cunz <sascha@kdevelop.org>
+           2007, Foo Bar <foo@bar.org>
+           1989-1991, Free Software Foundation, Inc
+           2004-2005, Sascha Cunz <sascha@kdevelop.org>
 License: GPL-2+
 
-Files: */cmake/*
+Files: cmake/*
 Copyright: Copyright 2005-2009 Kitware, Inc.
 License: BSD-3-clause
 
 Files: doc/*
 Copyright: 2008, Anne-Marie Mahfouf <annma@kde.org>
+           1998-2003, Kurt Granroth
+           2008, Beat Wolf
 License: GFDL-1.2+
 
 Files: debian/*
