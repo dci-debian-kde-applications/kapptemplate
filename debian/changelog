@@ -1,8 +1,32 @@
+kapptemplate (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  [ Clive Johnston ]
+  * New upstream release
+
+  [ Philip Muškovac ]
+  * Expand the install file so qml-plasmoid can be excluded which is now
+    shipped in plasma-framework as well.
+  * Add qml-plasmoid to not-installed
+
+ -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:37:05 +0000
+
+kapptemplate (4:15.08.3-1) unstable; urgency=medium
+
+  * New upstream release (15.08.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:39:54 +0100
+
 kapptemplate (4:15.08.3-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream bugfix release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Nov 2015 15:34:57 -0800
+
+kapptemplate (4:15.08.2-1) unstable; urgency=medium
+
+  * New upstream release (15.08.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 16 Oct 2015 08:06:53 +0200
 
 kapptemplate (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -11,11 +35,23 @@ kapptemplate (4:15.08.2-0ubuntu1) wily; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 11:58:04 +0100
 
+kapptemplate (4:15.08.1-1) unstable; urgency=medium
+
+  * New upstream release (15.08.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 02:44:59 +0200
+
 kapptemplate (4:15.08.1-0ubuntu1) wily; urgency=medium
 
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:16:19 +0100
+
+kapptemplate (4:15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 13:36:10 +0200
 
 kapptemplate (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -42,11 +78,25 @@ kapptemplate (4:15.04.2-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 18:37:02 +0200
 
+kapptemplate (4:14.12.3-1) experimental; urgency=medium
+
+  * New upstream release (14.12.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 Mar 2015 15:13:08 +0200
+
 kapptemplate (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:00:41 -0700
+
+kapptemplate (4:14.12.2-1) experimental; urgency=medium
+
+  * Prepare Debian release.
+  * Update build dependencies to build against experimental and to
+    follow cmake.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 17 Feb 2015 11:46:02 +0100
 
 kapptemplate (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
@@ -74,12 +124,6 @@ kapptemplate (4:14.11.97-0ubuntu1) vivid; urgency=medium
   * PPA build
 
  -- Philip Muškovac <yofel@kubuntu.org>  Fri, 28 Nov 2014 20:55:35 +0100
-
-kapptemplate (4:4.50.0-0ubuntu1) UNRELEASED; urgency=medium
-
-  * KDE Frameworks 5 Port.
-
- -- Harald Sitter <apachelogger@kubuntu.org>  Fri, 31 Oct 2014 11:59:11 +0100
 
 kapptemplate (4:4.14.1-1) unstable; urgency=medium
 
