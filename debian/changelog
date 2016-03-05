@@ -8,6 +8,7 @@ kapptemplate (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
   [ Clive Johnston ]
   * Merged with Debian
   * New upstream release 
+  * Fixing install file 
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 16 Feb 2016 00:18:55 +0000
 
