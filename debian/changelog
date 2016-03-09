@@ -1,4 +1,4 @@
-kapptemplate (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+kapptemplate (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
   [ Philip Muškovac ]
   * Expand the install file so qml-plasmoid can be excluded which is now
@@ -9,7 +9,7 @@ kapptemplate (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
   * Merged with Debian
   * New upstream release 
 
- -- Clive Johnston <clivejo@aol.com>  Tue, 16 Feb 2016 00:18:55 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 10:28:43 +0100
 
 kapptemplate (4:15.12.1-1) experimental; urgency=medium
 
