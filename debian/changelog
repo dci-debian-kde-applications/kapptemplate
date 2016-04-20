@@ -1,14 +1,15 @@
-kapptemplate (4:15.12.2-2~~1.gbpbcb072) UNRELEASED; urgency=medium
+kapptemplate (4:16.04.0-1~1.gbp60d054) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @bcb07235cc733febe0884dcbbdf2b83734e993a7 **
+  ** SNAPSHOT build @60d0547ca19dc6ad3ffc7cf43c8a7ed35f131957 **
 
   [ Maximiliano Curia ]
   * New upstream release (15.12.2).
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:57:31 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 01:56:12 +0200
 
 kapptemplate (4:15.12.1-1) experimental; urgency=medium
 
