@@ -1,6 +1,4 @@
-kapptemplate (4:16.04.0-1~2.gbp309418) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @3094182290fa7650236f0bdb5c11b6d183dc6ace **
+kapptemplate (4:16.04.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (15.12.2).
@@ -9,9 +7,8 @@ kapptemplate (4:16.04.0-1~2.gbp309418) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
-  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:56:18 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 25 May 2016 11:51:11 +0200
 
 kapptemplate (4:15.12.1-1) experimental; urgency=medium
 
