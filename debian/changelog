@@ -1,3 +1,9 @@
+kapptemplate (4:16.04.0-2) unstable; urgency=medium
+
+  * Release to unstable.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 31 May 2016 16:12:25 +0200
+
 kapptemplate (4:16.04.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
