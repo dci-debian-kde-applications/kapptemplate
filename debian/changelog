@@ -1,10 +1,16 @@
-kapptemplate (4:16.08.0-1~1.gbp98c471) UNRELEASED; urgency=medium
+kapptemplate (4:16.08.1-1~1.gbp1c0011) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @1c001185f1497a98857473dc865c82846a734a51 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @98c47117c0918ae05aa385754c49602bf26b566a **
 
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 19:56:18 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 19:56:34 +0200
 
 kapptemplate (4:16.04.2-1) unstable; urgency=medium
 
