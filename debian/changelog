@@ -1,17 +1,12 @@
-kapptemplate (4:16.08.2-1~1.gbp98a66f) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @98a66f5c771c028477acd73acf1f8e2c7e3426f4 **
+kapptemplate (4:16.08.2-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @98c47117c0918ae05aa385754c49602bf26b566a **
-
-  * UNRELEASED
+  * New upstream release (16.08.2)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
-  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 19:56:23 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 17 Oct 2016 23:09:03 +0200
 
 kapptemplate (4:16.04.2-1) unstable; urgency=medium
 
