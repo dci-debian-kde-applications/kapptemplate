@@ -1,10 +1,11 @@
-kapptemplate (4:16.08.2-2~1.gbp1af6e1) UNRELEASED; urgency=medium
+kapptemplate (4:16.08.3-1~1.gbpdc0ee4) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @1af6e171890eedde0e37befbcb64e2db3bf36300 **
+  ** SNAPSHOT build @dc0ee4378481c265f9453f8bb730fcfa022e2a33 **
 
   * Add new patch: Add-missing-sort-name-to-the-reproducible-tar-call.patch
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 24 Oct 2016 13:56:31 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 19:56:28 +0100
 
 kapptemplate (4:16.08.2-1) unstable; urgency=medium
 
