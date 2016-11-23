@@ -1,11 +1,9 @@
-kapptemplate (4:16.08.3-1~1.gbpdc0ee4) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @dc0ee4378481c265f9453f8bb730fcfa022e2a33 **
+kapptemplate (4:16.08.3-1) unstable; urgency=medium
 
   * Add new patch: Add-missing-sort-name-to-the-reproducible-tar-call.patch
-  * UNRELEASED
+  * New upstream release (16.08.3)
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 19:56:28 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 20:55:25 +0100
 
 kapptemplate (4:16.08.2-1) unstable; urgency=medium
 
