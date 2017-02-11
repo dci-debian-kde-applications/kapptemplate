@@ -29,6 +29,7 @@ Architecture: any
 Section: devel
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Suggests: kio-dev
+Recommends: libkf5plasma-dev
 Description: application template generator
  KAppTemplate is a shell script that will create the necessary framework to
  develop several types of applications, including applications based on the
