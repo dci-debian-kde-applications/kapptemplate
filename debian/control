@@ -10,8 +10,6 @@ Uploaders: Sune Vuorela <sune@debian.org>,
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.0.0),
-               kdoctools-dev,
-               kio-dev,
                libkf5archive-dev,
                libkf5completion-dev,
                libkf5configwidgets-dev,
@@ -19,6 +17,7 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5doctools-dev,
                libkf5i18n-dev,
                libkf5kio-dev,
+               libkf5newstuff-dev,
                pkg-kde-tools (>> 0.15.15),
                qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.8
@@ -31,6 +30,9 @@ Architecture: any
 Section: devel
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Suggests: kio-dev
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
+Recommends: libkf5plasma-dev
 Description: application template generator
  KAppTemplate is a shell script that will create the necessary framework to
  develop several types of applications, including applications based on the
