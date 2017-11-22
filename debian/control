@@ -17,6 +17,7 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5configwidgets-dev,
                libkf5coreaddons-dev,
                libkf5i18n-dev,
+               libkf5newstuff-dev,
                pkg-kde-tools (>> 0.15.15),
                qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.8
