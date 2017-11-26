@@ -10,6 +10,8 @@ kapptemplate (4:17.08.3-0r1) UNRELEASED; urgency=medium
     drop translations.
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
+  * Stop removing qml-plasmoid.tar.bz2, since it is not provided in this
+    source anymore.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 17:58:57 +0100
 
