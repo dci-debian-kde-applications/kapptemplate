@@ -28,7 +28,7 @@ Package: kapptemplate
 Architecture: any
 Section: devel
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Suggests: kio-dev
+Suggests: libkf5kio-dev
 Breaks: ${kde-l10n:all}
 Replaces: ${kde-l10n:all}
 Recommends: libkf5plasma-dev
