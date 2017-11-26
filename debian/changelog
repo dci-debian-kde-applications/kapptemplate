@@ -12,6 +12,9 @@ kapptemplate (4:17.08.3-0r1) UNRELEASED; urgency=medium
   * Simplify watch file, and switch it to https.
   * Stop removing qml-plasmoid.tar.bz2, since it is not provided in this
     source anymore.
+  * Stop forcing debian/tmp as local installation directory, installing
+    everything to the final location
+    - drop kapptemplate.install, no more useful now
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 17:58:57 +0100
 
